@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging thing is not building the app but finding the secret key for the next steps.
 
 ## License
 
