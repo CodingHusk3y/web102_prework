@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![web102](https://github.com/CodingHusk3y/web102_prework/assets/112494038/48363b40-08d2-4a64-9c36-51b92938f6be)
+
+![web102](https://github.com/CodingHusk3y/web102_prework/assets/112494038/4be18f47-ca9e-47ae-82c7-832ee2d24ad3)
 
 
 
