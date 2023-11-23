@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Alt text](web102.gif)
+
+![web102](https://github.com/CodingHusk3y/web102_prework/assets/112494038/4be18f47-ca9e-47ae-82c7-832ee2d24ad3)
+
 
 
 <!-- Replace this with whatever GIF tool you used! -->
