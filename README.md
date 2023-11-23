@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![web102](https://github.com/CodingHusk3y/web102_prework/assets/112494038/c49ac7bc-1d32-405f-93f9-2c927cb9d789)
+<gif src='assets/web102.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
