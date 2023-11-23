@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaMonster 
 
 Submitted by: Hieu Cao
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaMonster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 2 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* ✔️ A function to help user search for a specific game.
+* ✔️ A function to help users search for a specific game.
 
 ## Video Walkthrough
 
