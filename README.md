@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<gif src='assets/web102.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Alt text](web102.gif)
 
 
 <!-- Replace this with whatever GIF tool you used! -->
