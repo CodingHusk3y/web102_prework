@@ -1,10 +1,10 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - SeaMonster 
 
 Submitted by: Hieu Cao
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+SeaMonster is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: 2 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -17,16 +17,17 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* ✔️ A function to help user search for a specific game.
+* ✔️ A function to help users search for a specific game.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![web102](https://github.com/CodingHusk3y/web102_prework/assets/112494038/c49ac7bc-1d32-405f-93f9-2c927cb9d789)
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with LICEcap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -34,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The most challenging thing is not building the app but finding the secret key for the next steps.
 
 ## License
 
